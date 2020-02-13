@@ -59,15 +59,11 @@ span{
     background-color: aliceblue;
 }
 .chart{
-    margin-right: 200px;
-    flex:auto;
+    margin-left: 50px;
+    margin-right:100px;
 }
 .school{
     
-}
-.comtainer1{
-    flex:auto;
-    margin: 0 5px;
 }
 .mainbao{
     width: 882.86px;
